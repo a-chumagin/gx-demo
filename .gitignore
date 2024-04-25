@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+gx-demo/
+
+# Ignore IDE and editor files
+.idea/
+.vscode/
+
+
+# Ignore user-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore custom ignore patterns
+# my_custom_ignore_pattern.txt
